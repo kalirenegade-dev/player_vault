@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="player_vault.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/player_vault_main_jar</output-path>
+    <root id="archive" name="player_vault.main.jar">
+      <element id="module-output" name="player_vault.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c/nanohttpd-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
